@@ -18,3 +18,5 @@ A library is a lot more efficient than typing the actual formulas, it makes ever
 a lot more simple and acessible to type. They help you save time,
 avoid writing code from scratch, and add complex features easily.
 """
+
+""" 
